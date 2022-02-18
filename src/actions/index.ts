@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Dispatch } from 'redux';
 import { ActionTypes } from './types';
 
-const url = 'https://jsonplaceholder.typecode.com/todos';
+const url = 'https://jsonplaceholder.typicode.com/todos';
 
 export interface Todo {
   id: number;
